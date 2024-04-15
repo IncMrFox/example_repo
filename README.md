@@ -1,2 +1,2 @@
 # example_repo
-Couple commits on
+Couple commits on the main branch
